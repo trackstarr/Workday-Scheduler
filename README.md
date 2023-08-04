@@ -1,2 +1,4 @@
 # Workday-Scheduler
-This is a daily scheduler to help organized tasks to be tackled during the work day
+This is a daily scheduler to help organized tasks to be tackled during the work day!
+The color color coding will help distinguish between past,current and future tasks making sure you're always on schedule to crush it!
+
